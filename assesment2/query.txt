@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS customer_satisfaction (
 
 INSERT INTO customer_satisfaction (customer_name, service_rating, feedback)
 VALUES
-    ('John Doe', 4, 'Great service overall.'),
-    ('Jane Smith', 5, 'Very satisfied with the online support.'),
-    ('Michael Johnson', 3, 'Average experience, could be improved.'),
-    ('Emily Williams', 2, 'Disappointed with the delivery time.');
+    ('Budi Doremi', 4, 'Great service overall.'),
+    ('Deddy Corbuzier', 5, 'Very satisfied with the online support.'),
+    ('Syifa Hadju', 3, 'Average experience, could be improved.'),
+    ('Gerryano', 2, 'Disappointed with the delivery time.');
